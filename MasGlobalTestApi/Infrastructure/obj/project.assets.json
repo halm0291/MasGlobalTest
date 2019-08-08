@@ -3586,11 +3586,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\alozano\\source\\repos\\MasGlobalTestApi\\Infrastructure\\AppInfrastructure.csproj",
+      "projectUniqueName": "C:\\Users\\alozano\\source\\repos\\MasGlobalTest\\MasGlobalTestApi\\Infrastructure\\AppInfrastructure.csproj",
       "projectName": "AppInfrastructure",
-      "projectPath": "C:\\Users\\alozano\\source\\repos\\MasGlobalTestApi\\Infrastructure\\AppInfrastructure.csproj",
+      "projectPath": "C:\\Users\\alozano\\source\\repos\\MasGlobalTest\\MasGlobalTestApi\\Infrastructure\\AppInfrastructure.csproj",
       "packagesPath": "C:\\Users\\alozano\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\alozano\\source\\repos\\MasGlobalTestApi\\Infrastructure\\obj\\",
+      "outputPath": "C:\\Users\\alozano\\source\\repos\\MasGlobalTest\\MasGlobalTestApi\\Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

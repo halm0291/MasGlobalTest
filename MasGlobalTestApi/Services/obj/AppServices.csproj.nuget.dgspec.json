@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alozano\\source\\repos\\MasGlobalTestApi\\Services\\AppServices.csproj": {}
+    "C:\\Users\\alozano\\source\\repos\\MasGlobalTest\\MasGlobalTestApi\\Services\\AppServices.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alozano\\source\\repos\\MasGlobalTestApi\\Infrastructure\\AppInfrastructure.csproj": {
+    "C:\\Users\\alozano\\source\\repos\\MasGlobalTest\\MasGlobalTestApi\\Infrastructure\\AppInfrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alozano\\source\\repos\\MasGlobalTestApi\\Infrastructure\\AppInfrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\alozano\\source\\repos\\MasGlobalTest\\MasGlobalTestApi\\Infrastructure\\AppInfrastructure.csproj",
         "projectName": "AppInfrastructure",
-        "projectPath": "C:\\Users\\alozano\\source\\repos\\MasGlobalTestApi\\Infrastructure\\AppInfrastructure.csproj",
+        "projectPath": "C:\\Users\\alozano\\source\\repos\\MasGlobalTest\\MasGlobalTestApi\\Infrastructure\\AppInfrastructure.csproj",
         "packagesPath": "C:\\Users\\alozano\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alozano\\source\\repos\\MasGlobalTestApi\\Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\alozano\\source\\repos\\MasGlobalTest\\MasGlobalTestApi\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -60,14 +60,14 @@
         }
       }
     },
-    "C:\\Users\\alozano\\source\\repos\\MasGlobalTestApi\\Services\\AppServices.csproj": {
+    "C:\\Users\\alozano\\source\\repos\\MasGlobalTest\\MasGlobalTestApi\\Services\\AppServices.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alozano\\source\\repos\\MasGlobalTestApi\\Services\\AppServices.csproj",
+        "projectUniqueName": "C:\\Users\\alozano\\source\\repos\\MasGlobalTest\\MasGlobalTestApi\\Services\\AppServices.csproj",
         "projectName": "AppServices",
-        "projectPath": "C:\\Users\\alozano\\source\\repos\\MasGlobalTestApi\\Services\\AppServices.csproj",
+        "projectPath": "C:\\Users\\alozano\\source\\repos\\MasGlobalTest\\MasGlobalTestApi\\Services\\AppServices.csproj",
         "packagesPath": "C:\\Users\\alozano\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alozano\\source\\repos\\MasGlobalTestApi\\Services\\obj\\",
+        "outputPath": "C:\\Users\\alozano\\source\\repos\\MasGlobalTest\\MasGlobalTestApi\\Services\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -86,8 +86,8 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "C:\\Users\\alozano\\source\\repos\\MasGlobalTestApi\\Infrastructure\\AppInfrastructure.csproj": {
-                "projectPath": "C:\\Users\\alozano\\source\\repos\\MasGlobalTestApi\\Infrastructure\\AppInfrastructure.csproj"
+              "C:\\Users\\alozano\\source\\repos\\MasGlobalTest\\MasGlobalTestApi\\Infrastructure\\AppInfrastructure.csproj": {
+                "projectPath": "C:\\Users\\alozano\\source\\repos\\MasGlobalTest\\MasGlobalTestApi\\Infrastructure\\AppInfrastructure.csproj"
               }
             }
           }

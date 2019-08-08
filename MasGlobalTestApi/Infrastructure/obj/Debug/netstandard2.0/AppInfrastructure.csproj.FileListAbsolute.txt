@@ -7,3 +7,12 @@ C:\Users\alozano\source\repos\MasGlobalTestApi\Infrastructure\bin\Debug\netstand
 C:\Users\alozano\source\repos\MasGlobalTestApi\Infrastructure\obj\Debug\netstandard2.0\AppInfrastructure.dll
 C:\Users\alozano\source\repos\MasGlobalTestApi\Infrastructure\obj\Debug\netstandard2.0\AppInfrastructure.pdb
 C:\Users\alozano\source\repos\MasGlobalTestApi\Infrastructure\obj\Debug\netstandard2.0\AppInfrastructure.csprojAssemblyReference.cache
+C:\Users\alozano\source\repos\MasGlobalTest\MasGlobalTestApi\Infrastructure\bin\Debug\netstandard2.0\AppInfrastructure.deps.json
+C:\Users\alozano\source\repos\MasGlobalTest\MasGlobalTestApi\Infrastructure\bin\Debug\netstandard2.0\AppInfrastructure.dll
+C:\Users\alozano\source\repos\MasGlobalTest\MasGlobalTestApi\Infrastructure\bin\Debug\netstandard2.0\AppInfrastructure.pdb
+C:\Users\alozano\source\repos\MasGlobalTest\MasGlobalTestApi\Infrastructure\obj\Debug\netstandard2.0\AppInfrastructure.csprojAssemblyReference.cache
+C:\Users\alozano\source\repos\MasGlobalTest\MasGlobalTestApi\Infrastructure\obj\Debug\netstandard2.0\AppInfrastructure.csproj.CoreCompileInputs.cache
+C:\Users\alozano\source\repos\MasGlobalTest\MasGlobalTestApi\Infrastructure\obj\Debug\netstandard2.0\AppInfrastructure.AssemblyInfoInputs.cache
+C:\Users\alozano\source\repos\MasGlobalTest\MasGlobalTestApi\Infrastructure\obj\Debug\netstandard2.0\AppInfrastructure.AssemblyInfo.cs
+C:\Users\alozano\source\repos\MasGlobalTest\MasGlobalTestApi\Infrastructure\obj\Debug\netstandard2.0\AppInfrastructure.dll
+C:\Users\alozano\source\repos\MasGlobalTest\MasGlobalTestApi\Infrastructure\obj\Debug\netstandard2.0\AppInfrastructure.pdb
